@@ -1,0 +1,31 @@
+body {
+  background-color: lightgrey
+}
+
+h1 {
+  color: red;
+  background-color: yellow;
+}
+
+.Para1 {
+  background-color: blanchedalmond;
+  color: blue;
+  font-size: 25px;
+}
+
+.Para2 {
+  background-color: blanchedalmond;
+  color: blue;
+}
+
+#googlelink {
+  color: white;
+  font-size: 25px;
+  background-color: rgb(153, 35, 35);
+}
+
+#Summit {
+    color: white;
+    font-size: 25px;
+    background-color: rgb(55, 20, 182);
+  }
