@@ -1,5 +1,5 @@
 body {
-  background-color: lightgrey
+  background-color: lightgrey;
 }
 
 h1 {
@@ -7,36 +7,21 @@ h1 {
   background-color: yellow;
 }
 
-h2{
-color: beige;
-background-color: blueviolet;
+h2 {
+  color: beige;
+  background-color: blueviolet;
+}
+
+a {
+  background-color: white;
 
 }
 
-.Para1 {
-  background-color: blanchedalmond;
-  color: blue;
-  font-size: 25px;
+.content {
+  background-color: gray;
 }
 
-.Para2 {
-  background-color: blanchedalmond;
-  color: blue;
-}
-
-.Para3 {
-    background-color: rgb(158, 107, 31);
-    color: rgb(47, 235, 56);
-  }
-
-#googlelink {
-  color: white;
-  font-size: 25px;
-  background-color: rgb(153, 35, 35);
-}
-
-#Summit {
+.important{
     color: white;
-    font-size: 25px;
-    background-color: rgb(55, 20, 182);
-  }
+    background-color: red;
+}
