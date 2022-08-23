@@ -7,6 +7,12 @@ h1 {
   background-color: yellow;
 }
 
+h2{
+color: beige;
+background-color: blueviolet;
+
+}
+
 .Para1 {
   background-color: blanchedalmond;
   color: blue;
@@ -17,6 +23,11 @@ h1 {
   background-color: blanchedalmond;
   color: blue;
 }
+
+.Para3 {
+    background-color: rgb(158, 107, 31);
+    color: rgb(47, 235, 56);
+  }
 
 #googlelink {
   color: white;
